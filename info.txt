@@ -3,3 +3,5 @@ this is a critical message
 commit #1 during squash
 
 commit '2 
+
+commit # 3
