@@ -22,3 +22,5 @@ commit '9
 "another squash"
 
 "anoter sw"
+
+commit no 12
