@@ -34,9 +34,7 @@ n015
 commit '5
 
 
-commit '5commit '5commit '5commit '5
-
-commit '5commit '5
-
-commit '5commit '5commit '5commit '5
+<li><a href="Portfolio.html">Portfolio</a></li>
+                        <li><a href="About.html">About</a></li>
+                        <li><a href="ContactUs.html">Contact Us</a></li>
 
